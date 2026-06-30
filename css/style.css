@@ -1,0 +1,17 @@
+.produto {
+    display: flex;
+    gap: 30px;          
+    justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.csstext2 { 
+    background-color: gray;
+}
+
+.compra {
+    width: 80%;
+    height: 80vh; /* ocupa toda a altura da tela */
+    border: none;
+}
